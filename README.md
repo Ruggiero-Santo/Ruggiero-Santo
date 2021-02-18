@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+If you want to see my CV <a href="https://Ruggiero-Santo.github.io">click here</a> or you can see some code I have written for fun or as projects for university exams.
 <!--
 **Ruggiero-Santo/Ruggiero-Santo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
